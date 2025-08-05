@@ -13,7 +13,11 @@ Adicione o seguinte script no package.json:
   "test": "jest"
 }
 ```
+Faça o teste aplicando:
 
+```bash
+npm test
+```
 Pronto! Está funcionando.
 
 ---
